@@ -1,0 +1,29 @@
+---
+title: "README"
+output: html_document
+---
+
+**About**  
+
+Founded on October 4th, 2019, the grip design team is part of the Victoria Health Hackathon at Fort Tectoria, Victoria, BC. We are a team of diverse multidisciplinary professionals who got together to design a 3D prosthetic grip for writing as part of the Victoria Hand Project. For this project, we went through the design process of ideation, building and testing iterative prototypes before we got to our product.
+
+**People**  
+
+Aesha, Alistair, Baraa, Jenessa, Kate, Noushin
+
+**Mission**  
+
+Our mission was to ropose, design, and build a 3D terminal device that an amputee can use in combination with the Victoria Hand.
+
+
+**The Problem**
+
+Although the Victoria Hand is able to help amputees with many tasks, it cannot always help with all of the tasks the user wants to complete in their day-to-day life. For example, clients don’t have the range of motions and options to hold a pen or pencil to write or draw effectively. The main device that our team is hoping to deploy includes a pencil holder so that clients can write smoothly and naturally.
+
+**The Solution**
+
+The pencil holder is a 3D printed device that can attach to two fingers, and will hold a pen/pencil of any size to assist in writing. For unilateral, lower-limb amputees (missing one hand) using utensils for writing can be extremely difficult, and clients many find it debilitating to ask a friend or family member for assistance.
+We made a universal, customizable, and modular 3D hand grip design such that it properly grips and holds, meets the rotational limitations of the hand and arms, and enables easy smooth writing with visibility of pen and paper. 
+
+
+
