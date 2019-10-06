@@ -25,15 +25,15 @@ We made a universal, customizable, and modular 3D hand grip design such that it 
 
 The pencil holder is a 3D printed device that can attach to two fingers, and will hold a pen/pencil of any size to assist in writing. For unilateral, lower-limb amputees (missing one hand) using utensils for writing can be extremely difficult, and clients many find it debilitating to ask a friend or family member for assistance.
 
-We started with sketches of our models first:   
+### We started with sketches of our models first:   
 ![design process](sketch.png)
 
 
-We then built and tested our models:  
+### We then built and tested our models:  
 ![design process](3dmodels.png)
 ![design process](finalmodel.png)
 
-The design models and final model deployment:    
+### Our design models and final deployment:    
 ![design process](design.png)
 
 Our final product is modular, customizable, scalable, and inexpensive to produce. The main features include adjustable pen size holder, adjustable finger wrap with fastener option for sturdy support and operation. The Fusion360 CAD model can be downloaded and viewed [here](https://myhub.autodesk360.com/ue2a91ff8/g/shares/SH56a43QTfd62c1cd968a5aebc11db6c1d48) and the code is available in the `PenholderV6.STEP` file.
