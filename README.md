@@ -48,6 +48,6 @@ Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa (Engineer
 2. Makers Making Change
 3. Victoria Hand Project Proposal Page and project presentation
 4. Literature Review on Needs of Upper Limb Prosthesis Users
-5. Amputee coalition
+5. Amputee coalition 
 
 
