@@ -36,7 +36,7 @@ We then built and tested our models:
 The design models and final model deployment:    
 ![design process](design.png)
 
-Our final product is modular, customizable, scalable, and inexpensive to produce. The main features include adjustable pen size holder, adjustable finger wrap with fastener option for sturdy support and operation. The Fusion360 CAD model can be downloaded and viewed [here](https://myhub.autodesk360.com/ue2a91ff8/g/shares/SH56a43QTfd62c1cd968a5aebc11db6c1d48). 
+Our final product is modular, customizable, scalable, and inexpensive to produce. The main features include adjustable pen size holder, adjustable finger wrap with fastener option for sturdy support and operation. The Fusion360 CAD model can be downloaded and viewed [here](https://myhub.autodesk360.com/ue2a91ff8/g/shares/SH56a43QTfd62c1cd968a5aebc11db6c1d48) and the code is available in the `PenholderV6.STEP` file.
 
 Additionally, our project [website](http://www.thegrip.design) documents the re-iterative steps of design from ideation to building to testing prior to product release.
 
