@@ -19,7 +19,7 @@ Although the Victoria Hand helps unilateral upper-limb amputees with many tasks,
 
 Bilateral amputees have additional fine motion limitations and our project only addresses unilateral amputee clients. Our team’s deployed 3D device is a pencil holder so that clients can write smoothly and naturally.
 
-# **The Solution**
+# **Our Solution**
 
 We made a universal, customizable, and modular 3D hand grip design such that it properly grips and holds, meets the rotational limitations of the hand and arms, and enables easy smooth writing with visibility of pen and paper.
 
