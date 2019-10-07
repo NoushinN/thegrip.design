@@ -69,5 +69,3 @@ Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa Daoud (En
 4. [Literature Review on Needs of Upper Limb Prosthesis Users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4864250/)
 5. [Amputee coalition](https://www.amputee-coalition.org/how-prosthetic-hands-work/)
 
-
-https://www.makersmakingchange.com/project/pen-ball-holder/
