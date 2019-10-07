@@ -59,7 +59,7 @@ More information on what prosthetic hand devices are, the types, and how they ar
 
 ## **Team Members**  
 
-Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa (Engineering), Jenessa Higgs (Engineering), Kate Forrest (Chief Maker), Noushin Noushin (Biology)
+Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa Daoud (Engineering), Jenessa Higgs (Engineering), Kate Forrest (Chief Maker), Noushin Noushin (Biology)
 
 ## **References**
 
