@@ -15,7 +15,7 @@ Our mission was to propose, design, and build a 3D terminal device that an amput
 
 # **The Problem**
 
-Although the Victoria Hand Project models help unilateral upper-limb amputees with many tasks, they cannot always enable all of the tasks a user wants to complete in their day-to-day life. For example, unilateral amputee clients don't have the range of motions and autonomy to hold a pen or pencil to write or draw effectively. The also do not have a good grip and hold for pencils such that it feels natural.
+Although the Victoria Hand Project models help unilateral upper-limb amputees with many tasks, they cannot always enable all of the tasks a user wants to complete in their day-to-day life. For example, unilateral amputee clients don't have the range of motions and autonomy to hold a pen or pencil to write or draw effectively. They also do not have a good grip and hold for pencils such that it feels natural.
 
 ![Limb rotation limitations](limblimits.png)
 
@@ -59,7 +59,7 @@ More information on what prosthetic hand devices are, the types, and how they ar
 
 ## **Team Members**  
 
-Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa Daoud (Engineering), Jenessa Higgs (Engineering), Kate Forrest (Chief Maker), Noushin Noushin (Biology)
+Aesha Amer (Systems Information student at UVIC), Alistair Graham (Engineering student at UVIC), Baraa Daoud (Engineering student at UVIC), Jenessa Higgs (Engineering student at UVIC), Kate Forrest (Maker), Noushin Noushin (Biologist)
 
 ## **References**
 
