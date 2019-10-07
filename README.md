@@ -64,9 +64,10 @@ Aesha Amer (Systems Information), Alistair Graham (Engineering), Baraa Daoud (En
 ## **References**
 
 1. [Victoria Hand Project](https://www.victoriahandproject.com/)
-2. [Makers Making Change](https://www.makersmakingchange.com/) and [pen ball holder](makersmakingchange.com/project/pen-ball-holder/)
+2. [Makers Making Change](https://www.makersmakingchange.com/) and [pen ball holder](https://www.makersmakingchange.com/project/pen-ball-holder/)
 3. [Victoria Hand Project Proposal Page and project presentation](https://www.uvic.ca/research/centres/biomedical/assets/docs/challenge_3_victoria_health_hackathon.pdf)
 4. [Literature Review on Needs of Upper Limb Prosthesis Users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4864250/)
 5. [Amputee coalition](https://www.amputee-coalition.org/how-prosthetic-hands-work/)
 
 
+https://www.makersmakingchange.com/project/pen-ball-holder/
